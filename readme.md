@@ -6,8 +6,15 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. Что-то
-2. [git add](./add.md)
+1. [Предисловие](./предисловие.md)
+2. [Установка GIT в WINDOWS](./install_git.md)
+3. [git config](./config.md)
+4. [git init, git clone](./init_clone.md)
+5. [git add](./add.md)
+6. [git commit](./commit.md)
+7. [Работа с удалённым репозиторием](./remote.md)
+8. [Файл .gitignore](./gitignore.md)
+9. [Ветвление в GIT](./branch.md)
 
 
 ---
